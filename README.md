@@ -47,7 +47,15 @@ An interactive HR Analytics Dashboard built using **Tableau** to analyze employe
 
 ## Dashboard Preview
 
-> Add a screenshot of the dashboard here.
+<p align="center">
+  <img src="assets/dashboard.png" width="1000">
+</p>
+
+## Dashboard Demo
+
+▶️ **Watch the interactive dashboard here:**
+
+[dashboard.mp4](assets/dashboard.mp4)
 
 ## Author
 
